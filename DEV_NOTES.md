@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Tidied up project structure
+
+## 2026-03-23
+- Added .editorconfig for consistent formatting
+- Investigated performance bottleneck, noted findings
+- Fixed off-by-one error in loop
