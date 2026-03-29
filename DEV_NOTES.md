@@ -26,3 +26,8 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Verified API endpoint response schema
 - Reviewed open issues, added labels
+
+## 2026-03-30
+- Tidied up project structure
+- Fixed off-by-one error in loop
+- Tested build on clean environment
