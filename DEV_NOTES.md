@@ -21,3 +21,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added .editorconfig for consistent formatting
 - Investigated performance bottleneck, noted findings
 - Fixed off-by-one error in loop
+
+## 2026-03-30
+- Wrote notes on upcoming feature design
+- Verified API endpoint response schema
+- Reviewed open issues, added labels
