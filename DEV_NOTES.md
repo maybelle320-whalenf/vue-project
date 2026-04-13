@@ -31,3 +31,8 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Fixed off-by-one error in loop
 - Tested build on clean environment
+
+## 2026-04-13
+- Fixed off-by-one error in loop
+- Resolved deprecation warnings
+- Removed unused variable declarations
